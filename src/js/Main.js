@@ -12,6 +12,7 @@ function setup() {
 }
 
 //Hola si se va a poder
+//hola lo voy aintentar
 function draw() {
     switch (pantalla) {
         case 0:
