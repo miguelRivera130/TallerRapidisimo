@@ -10,6 +10,8 @@ function setup() {
 
     pantalla = 0;
 }
+
+//Hola si se va a poder
 function draw() {
     switch (pantalla) {
         case 0:
